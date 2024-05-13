@@ -398,6 +398,7 @@ body {
     gap: 20px;
 }
 #uploadDoodle {
+    cursor: pointer;
     margin-top: 20px;
     padding: 10px;
     background-color: #2bdb66;
